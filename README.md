@@ -19,6 +19,7 @@ Upgrade previously installed packages and autoremove the dependencies which are 
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
+$ sudo apt-get dist-upgrade
 $ sudo apt-get autoremove
 ```
 
