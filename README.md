@@ -4,11 +4,11 @@ This project aims at configuring a linux server remotely to host a web applicati
 
 ## Server Info
 
-IP Address: 18.218.227.204
+IP Address: ~~18.218.227.204~~
 
-SSH Port: 2200
+SSH Port: ~~2200~~
 
-Application URL: http://ec2-18-218-227-204.us-east-2.compute.amazonaws.com/
+Application URL: ~~http://ec2-18-218-227-204.us-east-2.compute.amazonaws.com/~~
 
 ## Server Configuration
 
